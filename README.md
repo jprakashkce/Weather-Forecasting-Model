@@ -2,11 +2,11 @@
 A weather forecasting model implemented in Python using time series analysis techniques. This model leverages historical weather data to predict weather conditions for the next 30 days. It includes data preprocessing, regression modeling, and evaluation steps for accurate forecasting.
 
 # Features
-Preprocessing of historical weather data to handle missing values, outliers, and feature engineering.
-Time series analysis techniques to capture trends, seasonality, and other temporal patterns.
-Regression modeling using linear regression and XGBoost algorithms for accurate forecasting.
-Evaluation metrics such as mean absolute error (MAE) and root mean squared error (RMSE) to assess model performance.
-Visualization of forecasted weather results and model diagnostics.
+> Preprocessing of historical weather data to handle missing values, outliers, and feature engineering.
+> Time series analysis techniques to capture trends, seasonality, and other temporal patterns.
+> Regression modeling using linear regression and XGBoost algorithms for accurate forecasting.
+> Evaluation metrics such as mean absolute error (MAE) and root mean squared error (RMSE) to assess model performance.
+> Visualization of forecasted weather results and model diagnostics.
 
 # Usage
 To use the weather forecasting model:
