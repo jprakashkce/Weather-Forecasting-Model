@@ -3,9 +3,13 @@ A weather forecasting model implemented in Python using time series analysis tec
 
 # Features
 > Preprocessing of historical weather data to handle missing values, outliers, and feature engineering.
+
 > Time series analysis techniques to capture trends, seasonality, and other temporal patterns.
+
 > Regression modeling using linear regression and XGBoost algorithms for accurate forecasting.
+
 > Evaluation metrics such as mean absolute error (MAE) and root mean squared error (RMSE) to assess model performance.
+
 > Visualization of forecasted weather results and model diagnostics.
 
 # Usage
